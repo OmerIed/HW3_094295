@@ -1,0 +1,1 @@
+In this folder are all the files used for exploring the data and training the model
